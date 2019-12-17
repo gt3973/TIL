@@ -28,3 +28,6 @@ github 은 , git 이 관리하는 Repo 의  원격저장소를 제공하는 서�
 >
 > 
 
+## Clone
+
+git remoterepo는 download가 아니라 Clone 해야한다.
