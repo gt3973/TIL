@@ -12,8 +12,3 @@ kospi = soup.select_one('#now_value')
 
 print(kospi.text)
 
-
-
-
-
-
