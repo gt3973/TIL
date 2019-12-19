@@ -11,3 +11,29 @@
 4. 반복.
 
    ![image-20191217094233419](02_git중급.assets/image-20191217094233419.png)
+
+## Branch
+
+### ![image-20191217162622903](02_git중급.assets/image-20191217162622903.png)
+
+독립적으로 개발을 진행할 수 있는데, 이렇게 독립적으로 개발하는 것이 브랜치다.
+
+
+
+## 크리스 마스 트리 만들기
+
+```python
+tree = '나무'
+#len(tree) => 2
+bulb = '전구'
+deco = '장식'
+
+while len(tree)<20:
+    tree = tree+ bulb +deco
+    
+christmas_tree = tree
+print(christmas_tree)
+```
+
+
+
