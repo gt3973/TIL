@@ -2,6 +2,7 @@
 __pycache__/
 
 
+
 # Created by https://www.gitignore.io/api/unity,unrealengine
 # Edit at https://www.gitignore.io/?templates=unity,unrealengine
 
@@ -154,5 +155,7 @@ Build/Android/res/*
 !Build/Android/res/*/
 Build/Android/res/*/*
 !Build/Android/res/*/*.png
+
+.env
 
 # End of https://www.gitignore.io/api/unity,unrealengine
